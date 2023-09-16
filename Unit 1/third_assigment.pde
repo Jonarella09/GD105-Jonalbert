@@ -6,8 +6,6 @@ Original: Geometric Shapes / 230818
 Source Link: //https://64.media.tumblr.com/cf987798db8463e913efbd960f59b091/58e3afdf5df20f0b-64/s1280x1920/17e2539d1aac524e393f498c1c7214ec4cfb0746.png
 */
 
-
-
 int squares_per_row = 4; // Number of squares per row
 
 void setup() 
