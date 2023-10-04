@@ -2,6 +2,7 @@
 
 - This GitHub repository is dedicated to the GD105 class assignments. Here, you will submit your assignments and access relevant course materials. This README provides an overview of the repository's structure and guidelines for submission.
 
+# Unit 1 - Status: Completed
 
 # Unit 2 - Work in Progress
 
