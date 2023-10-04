@@ -5,7 +5,8 @@ float x_speed, y_speed, collision_margin;
 color ravioli_color;
 PImage ravioli_non_copyrighted_image;
 
-void setup() {
+void setup() 
+{
   // Create a full-screen canvas without a cursor and set the frame rate to 60 frames per second
   fullScreen();
   noCursor();
@@ -30,8 +31,9 @@ void setup() {
     x_speed = 1.5;  
     y_speed = 1.5;
   } else if (width <= 1920) {
-    x_speed = 2.2;  
-    y_speed = 2.2;
+    x_speed = 2.5;  
+    y_speed = 2.5;
+    print("2");
   } else if (width <= 2560) {
     x_speed = 3;  
     y_speed = 3;
@@ -44,7 +46,8 @@ void setup() {
   }
 }
 
-void draw() {
+void draw() 
+{
   // Set the background color to black
   background(0);
   
