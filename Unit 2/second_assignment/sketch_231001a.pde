@@ -35,6 +35,9 @@ void setup() {
   } else if (width <= 2560) {
     x_speed = 3;  
     y_speed = 3;
+  } else if (width <= 3840) {
+    x_speed = 4.5;  
+    y_speed = 4.5;
   } else {
     x_speed = 2;  
     y_speed = 2;
