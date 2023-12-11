@@ -4,6 +4,10 @@
 
 # Unit 1 - Status: Completed
 
-# Unit 2 - Work in Progress
+# Unit 2 - Status: Completed
 
-This "Unit 2" folder is currently a work in progress.
+# Unit 3 - Status: Completed
+
+# Unit 4 - Status: Completed
+
+# Unit 5 - Status: Completed
